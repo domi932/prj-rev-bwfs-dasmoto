@@ -1,0 +1,47 @@
+html{
+  background-color: lightgrey;
+}
+
+h1{
+  color: khaki;
+  font-size: 100px;
+  text-align: center;
+}
+h2 {
+  color: white;
+  font-size: 32px;
+}
+
+h1, h2, span{
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+/*-----------------------------classes-----------------------------------------------*/
+
+.brushes{
+  background-color: mediumspringgreen;
+}
+
+.container{
+  background-color: white;
+  width: 80%;
+  margin: auto;
+  padding: 0.5%
+}
+
+.frames{
+  background-color: lightcoral;
+}
+
+.heading{
+  background-image: url('../pattern.jpeg');
+}
+
+.paint{
+  background-color: skyblue;
+}
+
+.price{
+  color: blue;
+}
